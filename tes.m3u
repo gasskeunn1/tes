@@ -64,7 +64,19 @@ https://spacetv.my.id/index.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=9183&type=drm
 https://spacetv.my.id/index.mpd?id=9183&type=dash
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZKNcw2K.png" group-title="SPOTV" group-logo="" tvg-id="SPOTV.id" tvg-name="SPOTV", SPOTV
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=17139&type=drm
+https://spacetv.my.id/index.mpd?id=17139&type=dash
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jKGv5My.png" group-title="SPOTV" group-logo="" tvg-id="SPOTV2.id" tvg-name="SPOTV 2", SPOTV2
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=17140&type=drm
+https://spacetv.my.id/index.mpd?id=17140&type=dash
 
 
 

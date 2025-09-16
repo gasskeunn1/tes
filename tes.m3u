@@ -1,5 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="411956" tvg-name="beIN Sports 1 HD" tvg-logo="https://i.imgur.com/CuDyCt2.png" group-title="beIN Sports",beIN Sports 1 HD
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6299&type=drm
+https://spacetv.my.id/index.mpd?id=6299&type=dash
+
+#EXTINF:-1 tvg-id="411918" tvg-name="beIN Sports 2 HD" tvg-logo="https://i.imgur.com/KNjBH3C.png" group-title="beIN Sports",beIN Sports 2 HD
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=17875&type=drm
+https://spacetv.my.id/index.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-id="411914" tvg-name="beIN Sports 3 HD" tvg-logo="https://i.imgur.com/JTHQ7lC.png" group-title="beIN Sports",beIN Sports 3 HD
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6317&type=drm
+https://spacetv.my.id/index.mpd?id=6317&type=dash
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",tes 
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0

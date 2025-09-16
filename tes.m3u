@@ -1,25 +1,74 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",tes sa
+
+#EXTINF:-1 tvg-id="4569130" tvg-name="beIN Sports 1 HD" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.350.350.medium.0.png" group-title="beIN Sports", UEFA Champions League
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=18305&type=drm
+https://spacetv.my.id/index.mpd?id=18305&type=dash
+
+#EXTINF:-1 tvg-id="411956" tvg-name="beIN Sports 1 HD" tvg-logo="https://i.imgur.com/CuDyCt2.png" group-title="beIN Sports",beIN Sports 1 HD
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6299&type=drm
 https://spacetv.my.id/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",tes sa
+#EXTINF:-1 tvg-id="411918" tvg-name="beIN Sports 2 HD" tvg-logo="https://i.imgur.com/KNjBH3C.png" group-title="beIN Sports",beIN Sports 2 HD
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=17875&type=drm
 https://spacetv.my.id/index.mpd?id=17875&type=dash
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",tes sa
+#EXTINF:-1 tvg-id="411914" tvg-name="beIN Sports 3 HD" tvg-logo="https://i.imgur.com/JTHQ7lC.png" group-title="beIN Sports",beIN Sports 3 HD
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6317&type=drm
 https://spacetv.my.id/index.mpd?id=6317&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-name="Champions TV 1" tvg-logo="https://i.imgur.com/tQkvnMk.png" group-title="Champions TV",Champions TV 1
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6685&type=drm
+https://spacetv.my.id/index.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-name="Champions TV 2" tvg-logo="https://i.imgur.com/RL28Y8a.png" group-title="Champions TV",Champions TV 2
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6686&type=drm
+https://spacetv.my.id/index.mpd?id=6686&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-name="Champions TV 3" tvg-logo="https://i.imgur.com/jVhJB99.png" group-title="Champions TV",Champions TV 3
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6786&type=drm
+https://spacetv.my.id/index.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-name="Champions TV 5" tvg-logo="https://i.imgur.com/7dTlLqE.png" group-title="Champions TV",Champions TV 5
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=9182&type=drm
+https://spacetv.my.id/index.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-name="Champions TV 6" tvg-logo="https://i.imgur.com/sxxP5hd.png" group-title="Champions TV",Champions TV 6
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=9183&type=drm
+https://spacetv.my.id/index.mpd?id=9183&type=dash
+
+
+
+
+
+
 
 
 

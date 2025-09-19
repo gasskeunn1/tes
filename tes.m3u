@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-name="Champions TV 3" tvg-logo="https://i.imgur.com/jVhJB99.png" group-title="Champions TV",Champions TV 3
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-name="Champions TV 3" tvg-logo="https://i.imgur.com/jVhJB99.png" group-title="Champions TV",dsfdsfds
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

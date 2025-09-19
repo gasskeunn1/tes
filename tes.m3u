@@ -3,8 +3,12 @@
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvid.gasruktv.workers.dev/?id=6786
-https://mpdvid.gasruktv.workers.dev/play.mpd?id=6786&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://tekoo.web.id/satu?id=6786&type=drm
+https://tekoo.web.id/satu.mpd?id=6786&type=dash
+
+
+
+
 
 #EXTINF:-1 tvg-id="4569288" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.350.350.medium.0.png" group-title="vidio", UEFA Champions League
 #EXTVLCOPT:http-referrer=https://m.vidio.com

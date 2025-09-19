@@ -3,8 +3,8 @@
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6786&type=drm
-https://spacetv.my.id/index.mpd?id=6786&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19404&type=drm
+https://spacetv.my.id/index.mpd?id=19404&type=dash
 
 
 

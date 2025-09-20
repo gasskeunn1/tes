@@ -1,10 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-name="Champions TV 3" tvg-logo="https://i.imgur.com/jVhJB99.png" group-title="Champions TV",121111
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://denmarkopen.dk/wp-content/uploads/2022/08/BWF.png" group-title="BWF", COURT 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19404&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19404&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=18249&type=drm
+https://spacetv.my.id/index.mpd?id=18249&type=dash
 
 
 

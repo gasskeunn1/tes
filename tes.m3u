@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-name="Champions TV 5" tvg-logo="https://i.imgur.com/7dTlLqE.png" group-title="vidio",Champions TV 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=9182&type=drm
 https://spacetv.my.id/index.mpd?id=9182&type=dash

@@ -97,8 +97,8 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=17139&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=17139&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=17139&type=drm
+https://spacetv.my.id/index.mpd?id=17139&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKGv5My.png" group-title="vidio" group-logo="" tvg-id="SPOTV2.id" tvg-name="SPOTV 2", SPOTV2
 #EXTVLCOPT:http-referrer=https://m.vidio.com

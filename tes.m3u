@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png" group-title="Live",FX Networks East Coast HD
-https://tvpass.org/live/FXEast/hd
-
+https://e5.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8?token=OFgJ6kkCzttRpWWwRCrMew&expires=1758574279&user_id=MzYuODUuMjIzLjEyNA==
 
 #EXTINF:-1 tvg-id="4569288" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.350.350.medium.0.png" group-title="vidio", UEFA Champions League
 #EXTVLCOPT:http-referrer=https://m.vidio.com

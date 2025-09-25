@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="4569288" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.350.350.medium.0.png" group-title="vidio", moji
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=206&type=drm
+https://spacetv.my.id/index.mpd?id=206&type=dash
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KBS_N_Sports.svg/1200px-KBS_N_Sports.svg.png" group-title="Korea", KBS N SPORTS
 https://stream1.freetv.fun/e25798655b395c7d19cb30b2646559eb7602ca437234a2065209af99c33e623b.m3u8
 
